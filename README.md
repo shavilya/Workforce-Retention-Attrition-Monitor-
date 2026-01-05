@@ -1,4 +1,5 @@
-# HR Analytics with PowerBI
+# Workforce Retention & Attrition Monitor 
+
 Welcome to the "HR Analytics with PowerBI" repository! Here, you will find a collection of PowerBI files and sample data that demonstrate how to create a dashboard for analyzing HR data. The repository includes a sample dataset for a fictional company, which can be used to create a PowerBI dashboard that visualizes various aspects of HR data, such as employee attendance and performance metrics.
 
 ## Getting Started
